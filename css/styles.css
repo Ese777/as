@@ -1,0 +1,19 @@
+body {
+    background-color: chartreuse;
+}
+
+h1 {
+    color: midnightblue;
+}
+
+h3 {
+    color: lightcoral;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color:darkorchid;
+    border-width: 7.5px;
+    width: 100%;
+}
